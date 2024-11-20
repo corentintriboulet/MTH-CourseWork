@@ -9,7 +9,11 @@ The courses offered provide a rigorous framework for analyzing and solving probl
 
 ## Learning Outcomes
  • Use a mathematical concept or principle to describe a problem.
+ 
  • Model a random experiment using random variables.
+ 
  • Identify the different stages of the numerical simulation of physical phenomena.
+ 
  • Master the basic tools of mathematical analysis.
+ 
  • Use the basic functions of software for numerical calculation or statistics
