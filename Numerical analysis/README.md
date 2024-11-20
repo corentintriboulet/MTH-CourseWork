@@ -4,10 +4,10 @@
 We will present basic numerical methods useful for engineering. Applications are given, which motivate the development of
 such methods, together with a systematic analysis of the accuracy
 
-##Keywords : 
+## Keywords : 
 Approximation, linear systems, numerical integration, differential equations, optimisation.
 
-##Programme 
+## Programme 
 - Linear systems, eigenvalues.
 - Optimization, non-linear equation.
 - Interpolation, numerical integration.
