@@ -1,4 +1,4 @@
-# Stochastic process course work at Centrale Lyon
+# Probaility theory and Introduction to stochastic processes course work at Centrale Lyon
 
 ## Objectives
 The course will be given in English if necessary.
