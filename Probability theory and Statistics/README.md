@@ -14,4 +14,5 @@ regression.
 ## Programme 
 **Probability :** (1) Random Variables (2) Mean and variance (3) Random vectors (4) Random variables
 sequences- Asymptotic results- Monte-Carlo method.
+
 **Statistic :** (5) Estimation (6) Estimation by confidence intervalle (7) Statistic tests(8) Linear regression
