@@ -13,9 +13,9 @@ time martingales
 
 ## Programme 
 - Characteristic functions
-- 
+  
 - Gaussian processes
-- 
+  
 - Random sequences, limit theorems
-- 
+  
 - Conditional expectation, martingales and stopping time
